@@ -31,7 +31,7 @@ Lately, I’ve been working on personal projects, smart dashboards, CRMs, and ma
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dosorio55&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dosorio55)](https://git.io/streak-stats)
 
 
 <!--
