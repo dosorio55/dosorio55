@@ -27,14 +27,13 @@ Lately, I’ve been working on personal projects, smart dashboards, CRMs, and ma
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dosorio55&layout=compact&theme=radical)
 
----
+<!---
 
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dosorio55)](https://git.io/streak-stats)
 
 
-<!--
 **dosorio55/dosorio55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
