@@ -33,19 +33,6 @@ Lately, I’ve been working on personal projects, smart dashboards, CRMs, and ma
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dosorio55&theme=radical)](https://git.io/streak-stats)
 
----
-
-## 📈 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dosorio55&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🌍 Languages
-
-Native Spanish · English C1
-
-
 
 <!--
 **dosorio55/dosorio55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
