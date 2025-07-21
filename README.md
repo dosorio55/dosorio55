@@ -21,10 +21,6 @@ Lately, I’ve been working on personal projects, smart dashboards, CRMs, and ma
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dosorio55&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dosorio55&layout=compact&theme=radical)
 
 <!---
