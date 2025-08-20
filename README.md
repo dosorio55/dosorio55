@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;Open-source+Enthusiast;Tech+Explorer+🌍)](https://git.io/typing-svg)
 
-# 👋 Hey, I'm Daniel
+# 👋 Hey, I'm Diego
 
 I love coding, automating things, and finding creative solutions to real problems.  
 I enjoy making people’s lives easier through technology, understanding how things work under the hood, and building useful tools from scratch.  
