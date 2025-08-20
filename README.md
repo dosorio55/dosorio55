@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Osorio</h1>
+<h1 align="center">👨‍💻 Hey there! I'm Diego, a Software Developer</h1>
 <h3 align="center">A curious Software Developer who loves building tools that make life easier 🚀</h3>
 
 ---
