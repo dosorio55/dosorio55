@@ -3,6 +3,12 @@
 
 ---
 
+I love coding, automating things, and finding creative solutions to real problems.  
+I enjoy making people’s lives easier through technology, understanding how things work under the hood, and building useful tools from scratch.  
+I also love collaborating with people and jumping into cool projects — always up to learn something new or build something meaningful together.
+
+---
+
 ## 🛠️ Technologies I work with
 
 **Languages**
@@ -31,11 +37,6 @@
 ## 🧠 Always learning and tinkering
 I’m constantly exploring topics like **AI, software architecture, distributed systems, and automation**.  
 Lately, I’ve been building personal projects such as **smart dashboards, CRMs, and management apps**.
-
----
-
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dosorio55&layout=compact&theme=radical)
 
 ---
 
