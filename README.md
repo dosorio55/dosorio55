@@ -1,4 +1,6 @@
-# 👨‍💻 Hey there! I'm a Software Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;Open-source+Enthusiast;Tech+Explorer+🌍)](https://git.io/typing-svg)
+
+# 👋 Hey, I'm Daniel
 
 I love coding, automating things, and finding creative solutions to real problems.  
 I enjoy making people’s lives easier through technology, understanding how things work under the hood, and building useful tools from scratch.  
@@ -8,9 +10,14 @@ I also love collaborating with people and jumping into cool projects — always 
 
 ## 🛠️ Technologies I work with
 
-**Frontend:** React · TypeScript · Next.js · React Native  
-**Backend:** Golang · Node.js · C# · Python  
-**Others:** SQL · MongoDB · Supabase · Strapi · Medusa · Redis  
+**Frontend**  
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,reactnative,tailwind)](https://skillicons.dev)
+
+**Backend**  
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,cs,python,express)](https://skillicons.dev)
+
+**Databases & Tools**  
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis,graphql)](https://skillicons.dev)
 
 ---
 
@@ -22,24 +29,3 @@ Lately, I’ve been working on personal projects, smart dashboards, CRMs, and ma
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dosorio55&layout=compact&theme=radical)
-
-<!---
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dosorio55)](https://git.io/streak-stats)
-
-
-**dosorio55/dosorio55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
