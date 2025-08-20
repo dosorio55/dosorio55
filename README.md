@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Daniel Osorio</h1>
+<h1 align="center">👨‍💻 Hey there! I'm a Software Developer</h1>
 <h3 align="center">A curious Software Developer who loves building tools that make life easier 🚀</h3>
+
+I love coding, automating things, and finding creative solutions to real problems. I enjoy making people’s lives easier through technology, understanding how things work under the hood, and building useful tools from scratch. I also love collaborating with people and jumping into cool projects — always up to learn something new or build something meaningful together.
 
 ---
 
@@ -20,6 +22,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## 🧠 Always learning and tinkering I'm constantly exploring topics like AI, software architecture, distributed systems, and automation. Lately, I’ve been working on personal projects, smart dashboards, CRMs, and management apps. 
 
 ---
 
