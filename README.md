@@ -45,10 +45,8 @@ Lately, I’ve been building personal projects such as **smart dashboards, CRMs,
 
 ## 📫 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/dosorio55" target="blank">
+<a href="https://linkedin.com/in/dosorio55](https://www.linkedin.com/in/diego-osorio-ruiz-30533a241" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dosorio55" height="30" width="40" />
 </a>
-<a href="https://twitter.com/YOURHANDLE" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOURHANDLE" height="30" width="40" />
-</a>
+
 </p>
